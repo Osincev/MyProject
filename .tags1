@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+tk	D:\Документы\_Education\MyProject\My_Win_App_Class.py	/^import tkinter as tk$/;"	namespace	line:1
+ttk	D:\Документы\_Education\MyProject\My_Win_App_Class.py	/^from tkinter import ttk$/;"	namespace	line:2
+sys	D:\Документы\_Education\MyProject\My_Win_App_Class.py	/^import sys$/;"	namespace	line:3
+Application	D:\Документы\_Education\MyProject\My_Win_App_Class.py	/^class Application(tk.Tk):$/;"	class	line:9
+__init__	D:\Документы\_Education\MyProject\My_Win_App_Class.py	/^    def __init__(self):$/;"	member	line:11	class:Application
+run_set_ui	D:\Документы\_Education\MyProject\My_Win_App_Class.py	/^    def run_set_ui(self):$/;"	member	line:21	class:Application
+set_ui	D:\Документы\_Education\MyProject\My_Win_App_Class.py	/^    def set_ui(self):$/;"	member	line:26	class:Application
+app_exit	D:\Документы\_Education\MyProject\My_Win_App_Class.py	/^    def app_exit(self):$/;"	member	line:38	class:Application
+root	D:\Документы\_Education\MyProject\My_Win_App_Class.py	/^    root = Application()$/;"	variable	line:43

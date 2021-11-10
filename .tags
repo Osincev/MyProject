@@ -1,0 +1,69 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AddEventToLog11	.\My_Win_App_Class_02.py	/^        def AddEventToLog11(msgtext):$/;"	f	function:Application.WorkScreen
+Application	.\My_Win_App_Class.py	/^class Application(tk.Tk):$/;"	c
+Application	.\My_Win_App_Class_01.py	/^class Application(tk.Tk):$/;"	c
+Application	.\My_Win_App_Class_02.py	/^class Application(tk.Tk):$/;"	c
+EventBtn_b1	.\My_Win_App_Class_02.py	/^        def EventBtn_b1(event):$/;"	f	function:Application.WorkScreen
+GUI	.\qwe.py	/^class GUI:$/;"	c
+MngBtn1_b1	.\My_Win_App_Class_02.py	/^        def MngBtn1_b1(event):$/;"	f	function:Application.WorkScreen
+SetsBtn1_b1	.\My_Win_App_Class_02.py	/^        def SetsBtn1_b1(event):$/;"	f	function:Application.WorkScreen
+SetsBtn2_b1	.\My_Win_App_Class_02.py	/^        def SetsBtn2_b1(event):$/;"	f	function:Application.WorkScreen
+SetsScreen	.\My_Win_App_Class_02.py	/^    def SetsScreen(self):$/;"	m	class:Application
+StartScreen	.\My_Win_App_Class_01.py	/^    def StartScreen(self):$/;"	m	class:Application
+StartScreen	.\My_Win_App_Class_02.py	/^    def StartScreen(self):$/;"	m	class:Application
+WorkScreen	.\My_Win_App_Class_01.py	/^    def WorkScreen(self):$/;"	m	class:Application
+WorkScreen	.\My_Win_App_Class_02.py	/^    def WorkScreen(self):$/;"	m	class:Application
+__init__	.\My_Win_App_Class.py	/^    def __init__(self):$/;"	m	class:Application
+__init__	.\My_Win_App_Class_01.py	/^    def __init__(self):$/;"	m	class:Application
+__init__	.\My_Win_App_Class_02.py	/^    def __init__(self):$/;"	m	class:Application
+__init__	.\qwe.py	/^    def __init__(self, master):$/;"	m	class:GUI
+app_exit	.\My_Win_App_Class.py	/^    def app_exit(self):$/;"	m	class:Application
+app_exit	.\My_Win_App_Class_01.py	/^    def app_exit(self):$/;"	m	class:Application
+app_exit	.\My_Win_App_Class_02.py	/^    def app_exit(self):$/;"	m	class:Application
+b1	.\My_Win_App_Class_01.py	/^        def b1(event):$/;"	f	function:Application.StartScreen
+b1	.\My_Win_App_Class_02.py	/^        def b1(event):$/;"	f	function:Application.StartScreen
+b11	.\My_Win_App_Class_02.py	/^        def b11(event):$/;"	f	function:Application.SetsScreen
+b21	.\My_Win_App_Class_02.py	/^        def b21(event):$/;"	f	function:Application.SetsScreen
+b3	.\My_Win_App_Class_01.py	/^        def b3(event):$/;"	f	function:Application.StartScreen
+dt	.\My_Win_App_Class_01.py	/^from datetime import datetime as dt$/;"	i
+dt	.\My_Win_App_Class_02.py	/^from datetime import datetime as dt$/;"	i
+dt	.\qwe.py	/^from datetime import datetime as dt$/;"	i
+main_ui	.\qwe.py	/^main_ui = GUI(root)$/;"	v
+nScreenNum	.\My_Win_App_Class_01.py	/^nScreenNum = 0$/;"	v
+nScreenNum	.\My_Win_App_Class_02.py	/^nScreenNum = 0$/;"	v
+progress	.\qwe.py	/^    def progress(self):$/;"	m	class:GUI
+root	.\My_Win_App_Class.py	/^    root = Application()$/;"	v
+root	.\My_Win_App_Class_01.py	/^    root = Application()$/;"	v
+root	.\My_Win_App_Class_02.py	/^    root = Application()$/;"	v
+root	.\qwe.py	/^root = tk.Tk()$/;"	v
+run_set_ui	.\My_Win_App_Class.py	/^    def run_set_ui(self):   # Окно с постоянными элементами (Шаблон)$/;"	m	class:Application
+run_set_ui	.\My_Win_App_Class_01.py	/^    def run_set_ui(self):   # Окно с постоянными элементами (Шаблон)$/;"	m	class:Application
+sLastMeltNum	.\My_Win_App_Class.py	/^sLastMeltNum = str(3333)$/;"	v
+sLastMeltNum	.\My_Win_App_Class_01.py	/^sLastMeltNum = str(3333)$/;"	v
+sLastMeltNum	.\My_Win_App_Class_02.py	/^sLastMeltNum = str(3333)$/;"	v
+sLastWheelID	.\My_Win_App_Class.py	/^sLastWheelID = str(2222)$/;"	v
+sLastWheelID	.\My_Win_App_Class_01.py	/^sLastWheelID = str(2222)$/;"	v
+sLastWheelID	.\My_Win_App_Class_02.py	/^sLastWheelID = str(2222)$/;"	v
+sLastWheelNum	.\My_Win_App_Class.py	/^sLastWheelNum = str(2222)$/;"	v
+sLastWheelNum	.\My_Win_App_Class_01.py	/^sLastWheelNum = str(2222)$/;"	v
+sLastWheelNum	.\My_Win_App_Class_02.py	/^sLastWheelNum = str(2222)$/;"	v
+set_ui	.\My_Win_App_Class.py	/^    def set_ui(self):$/;"	m	class:Application
+set_ui	.\My_Win_App_Class_01.py	/^    def set_ui(self):$/;"	m	class:Application
+sys	.\My_Win_App_Class.py	/^import sys$/;"	i
+sys	.\My_Win_App_Class_01.py	/^import sys$/;"	i
+sys	.\My_Win_App_Class_02.py	/^import sys$/;"	i
+sys	.\qwe.py	/^import sys$/;"	i
+tb_click	.\qwe.py	/^    def tb_click(self):$/;"	m	class:GUI
+tk	.\My_Win_App_Class.py	/^import tkinter as tk$/;"	i
+tk	.\My_Win_App_Class_01.py	/^import tkinter as tk$/;"	i
+tk	.\My_Win_App_Class_02.py	/^import tkinter as tk$/;"	i
+tk	.\qwe.py	/^import tkinter as tk$/;"	i
+ttk	.\My_Win_App_Class.py	/^from tkinter import ttk$/;"	i
+ttk	.\My_Win_App_Class_01.py	/^from tkinter import ttk$/;"	i
+ttk	.\My_Win_App_Class_02.py	/^from tkinter import ttk$/;"	i
+ttk	.\qwe.py	/^from tkinter import ttk$/;"	i
